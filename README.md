@@ -1,5 +1,5 @@
 # lsdb.js
-local storage plain JS app data utilitu/helper
+Plain JS local storage utility/helper for storing application config in the form of object.
 
 ## Installation (CDN jsDelivr)
 Include in your application :
