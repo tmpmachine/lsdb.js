@@ -14,7 +14,7 @@ or use minified version :
 <script src="https://cdn.jsdelivr.net/gh/tmpmachine/lsdb.js@v1.0.0/lsdb.min.js"></script>
 ```
 ```
-https://cdn.jsdelivr.net/gh/tmpmachine/lsdb.js@v1.0.0/lsdb.js
+https://cdn.jsdelivr.net/gh/tmpmachine/lsdb.js@v1.0.0/lsdb.min.js
 ```
 
 ## Usage Example
